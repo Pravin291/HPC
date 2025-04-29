@@ -51,7 +51,7 @@ nameserver 192.168.56.10
 
 #### `/etc/hosts`
 ```conf
-192.168.100.10  xcatmn  xcatmn.cluster.com
+192.168.56.10  xcatmn  xcatmn.cluster.com
 ```
 
 ---
